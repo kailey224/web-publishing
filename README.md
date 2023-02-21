@@ -23,7 +23,8 @@ HTML, CSS, Javascript 공부를 통한 웹 퍼블리싱 공부
 
 ### [NIKE RUN CLUB](https://github.com/kailey224/The-Witch-Store)
 - 러닝 기록 어플리케이션 소개 페이지로 나이키의 활동적인 느낌을 강조하여 진행
-- 웹, 모바일에 맞게 반응형
+- 웹, 모바일에 맞게 반응형으로 제작
+
 [Web]</br>
 ![image](https://user-images.githubusercontent.com/103574215/218949130-4bbcae7b-9ab2-43ab-a0ee-252f2423fee1.gif)</br>
 [Mobile]</br>
