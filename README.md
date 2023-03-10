@@ -1,5 +1,5 @@
 # web-publishing
-HTML, CSS, Javascript 공부를 통한 웹 퍼블리싱 공부
+HTML, CSS, Javascript 언어를 사용해 웹 표준, 크로스 브라우징이 적용된 웹 페이지 제작 
 <br/>
 
 ## 🗂️ Project
