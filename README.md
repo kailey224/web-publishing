@@ -1,4 +1,4 @@
-# web-publishing
+# web-publishing (개인 프로젝트)
 HTML, CSS, Javascript 언어를 사용해 웹 표준, 크로스 브라우징이 적용된 웹 페이지 제작 
 <br/>
 
@@ -16,12 +16,14 @@ HTML, CSS, Javascript 언어를 사용해 웹 표준, 크로스 브라우징이 
 ## 시연영상 
 
 ### [NUDAKE 코드 보러가기](https://github.com/kailey224/web-publishing/tree/main/NRC)
+- [기획 및 디자인](https://www.figma.com/file/RDtbahMrVsTubAHQBShr1X/NUDAKE?node-id=0%3A1&t=qlQFUriyoTKpeCdC-0)
 - [기존 홈페이지](https://www.nudake.com/)가 비주얼적인 부분에 집중했다면, 메뉴, 매장위치 등 정보를 강조하여 재디자인하였습니다.
 
 ![image](https://user-images.githubusercontent.com/103574215/218945361-99bf73d3-1606-4e60-b740-b6d9ae283df8.gif)
 
 
 ### [NIKE RUN CLUB 코드 보러가기](https://github.com/kailey224/The-Witch-Store)
+- [기획 및 디자인](https://www.figma.com/file/X4ev9o9FiYdbLoW3oiRO6t/NRC?t=qlQFUriyoTKpeCdC-0)
 - 러닝 기록 어플리케이션 소개 페이지로 나이키의 활동적인 느낌을 강조하여 진행
 - 웹, 모바일에 맞게 반응형으로 제작
 
