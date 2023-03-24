@@ -24,7 +24,7 @@ HTML, CSS, Javascript 언어를 사용해 웹 표준, 크로스 브라우징이 
 
 ### [NIKE RUN CLUB 코드 보러가기](https://github.com/kailey224/web-publishing/tree/main/NRC)
 - [기획 및 디자인](https://www.figma.com/file/X4ev9o9FiYdbLoW3oiRO6t/NRC?t=qlQFUriyoTKpeCdC-0)
-- 러닝 기록 어플리케이션 소개 페이지로 나이키의 활동적인 느낌을 강조하여 진행
+- 러닝 기록 어플리케이션 소개 페이지로 [기존 홈페이지](https://www.nike.com/kr/nrc-app) 보다 나이키의 활동적인 느낌을 강조하여 진행
 - 웹, 모바일에 맞게 반응형으로 제작
 
 [Web]</br>
