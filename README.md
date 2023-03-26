@@ -5,8 +5,8 @@ HTML, CSS, Javascript 언어를 사용해 웹 표준, 크로스 브라우징이 
 ## 🗂️ Project
 |Projects|period|info|
 |---|---|---|
-|[Nudake](https://github.com/kailey224/web-publishing/tree/main/NRC)|2022.07|디저트 브랜드 홈페이지 리뉴얼|
-|[Nike Run Club](https://github.com/kailey224/The-Witch-Store)|2022.08|나이키 런 클럽 소개 홈페이지 개발|
+|[Nudake](https://github.com/kailey224/web-publishing/tree/main/NUDAKE)|2022.07|디저트 브랜드 홈페이지 리뉴얼|
+|[Nike Run Club](https://github.com/kailey224/web-publishing/tree/main/NRC)|2022.08|나이키 런 클럽 소개 홈페이지 개발|
 
 
 ## 개발 환경
